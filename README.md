@@ -61,5 +61,5 @@ Contributions, issues and feature requests <a href="https://t.me/fauzandevelover
 
 ------------
 
-- **Made with ❤️ by Muhammad Fauzan .**
+- **Made with ❤️ by Muhammad Fauzan.**
 
